@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - This program is aim at creating a simple calculator
+ * main - This program is aimed at creating a simple calculator
  * using the operators +, -, * and /.
  *
  * Return: 0
